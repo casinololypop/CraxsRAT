@@ -1,9 +1,15 @@
 # CraxsRAT
 is a sophisticated Android Remote Access Trojan (RAT)
+
 📁[CONTACT](https://t.me/EvLFDEV_v7)
+
+
 that allows attackers to gain complete control over infected devices. This malware family is notorious for its advanced capabilities, which include remote device control and extensive spyware functionalities 
+
 .
 Key Features
+
+
 Remote Control: CraxsRat enables attackers to remotely operate Android devices, allowing them to manipulate various functions and access sensitive information 
 .
 Data Manipulation: The malware can read, remove, and add contacts, as well as investigate call logs, providing attackers with significant access to personal data.
